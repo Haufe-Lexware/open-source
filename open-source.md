@@ -67,7 +67,7 @@ If your code is also used internally, do not deploy from your public Github repo
 Before it gets published, schedule a review by someone who is unconnected to the project. His or her responsibility is to make sure it is actually usable **without your help**. Any issues should be tracked in the issue tracker of the repo. Anything marked blocking must be resolved before it can be published
 
 ##### Engage
-[If a tree falls in the forest ...](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest) No one will know about your awesome project unless you make it known. Engaging the community can take multiple forms: you can blog about it on our [developer blog](http://dev.haufe-lexwaere.com), [tweet](https://twitter.com/haufedev) about it, present at conferences, reach out to industry analysts and evangelists, etc pp. Just don't fool yourself thinking [that if you build it ...](https://www.entrepreneur.com/article/227850). 
+[If a tree falls in the forest ...](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest) No one will know about your awesome project unless you make it known. Engaging the community can take multiple forms: you can blog about it on our [developer blog](http://dev.haufe-lexware.com), [tweet](https://twitter.com/haufedev) about it, present at conferences, reach out to industry analysts and evangelists, etc pp. Just don't fool yourself thinking [that if you build it ...](https://www.entrepreneur.com/article/227850). 
 
 And if you get questions, comments or - the bigest reward of all - active contributors, treat them as you would like to be treated. Be always professional, and helpful. If folks ask seemingly simple questions over and over again, it is a sign that you urgently need to update your documentation. 
 
