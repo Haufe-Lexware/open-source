@@ -17,4 +17,7 @@ We believe in putting powerful tools in the hands of developers. In many cases, 
 * **Discretionary**: Code that we collectively decide provides greater value to our community of developers than the incremental value it may provide to Haufe-Lexware if kept proprietary
 * **Derived work**: As it is often faster to develop using open tools, we correspondingly open derived works based on those tools in adherence with the license terms and conventions.
 
+### What is our Policy
+See [Open Source Policy](open-source.md)
+
 *Source: This policy was inspired by and derived from [3DR Open Source Policy](https://3dr.com/open-source-policy/)*
