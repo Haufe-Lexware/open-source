@@ -73,6 +73,8 @@ And if you get questions, comments or - the bigest reward of all - active contri
 
 **It is your responsibility to make anyone engaging and contributing feel valued. Open sourcing code is not about you, but about giving back to the community of which we are all part of. Treating any single member of the community with less than professional attitudes reflects back to our company and our own values.**
 
+As we wrote above, there is no higher appreciation for your Open Source project than others contributing to it because they see value in it. In order to protect the integrity of the code released under the Haufe-Lexware name under the Apache 2 license we ask that contributors submitting pull requests to sign a [Contributor License Agreement (CLA)](https://gist.github.com/DonMartin76/b35182c830fad771d31e2cd98be2b9ac). Our CLA is s a derivative from the [GitHub Contributor License Agreement](https://cla.github.com/agreement), used with GitHub's permission under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license. Please add an explicit reference to the CLA to the customary `CONTRIBUTING.md` file in the root of your project and configure the freely available [cla-assistant](https://cla-assistant.io) to enforce acceptance of the CLA for pull requests to your project repo (you can find a sample pull request [here](https://github.com/apim-haufe-io/wicked.portal/pull/8)).
+
 #### Fight Entropy
 Code not maintained is dead code. That is also true for open source projects. We expect you to be a responsible owner and maintain the code and keep engaging the community and representing our company to your best abilities . This is the basic bargain we offer in return for open sourcing code and making yourself a name in the community.
 
