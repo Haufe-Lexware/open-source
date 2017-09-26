@@ -52,7 +52,7 @@ The response to your email should clearly state who was involved in the decision
 Once you have the approval, you can now proceed to open source the assets.
 
 ##### Use Github
-All of our Open Source is hosted on our [corporate Github account](https://github.com/Haufe-Lexware). You can request a new repo from our [Release Engineering (RE) team](mailto:_HL_PT_RE@haufe-lexware.com).
+All of our Open Source is hosted on our [corporate Github account](https://github.com/Haufe-Lexware). You can request a new repo from our [Release Engineering (RE) team](mailto:_DevInfra@haufe-lexware.com).
 
 Our standard license for source code is Apache 2. Please use the standard `LICENSE` template provided by Github and place it at the root of your repo.
 
