@@ -1,5 +1,5 @@
 ### Why Open Source?
-Open source software (OSS) is a software development model that underpins many Haufe-Lexware products and most of the technology products in our everyday lives. At Haufe-Lexware, we choose to develop and use OSS for the following reasons:
+Open-source software (OSS) is a software development model that underpins many Haufe Group products and most of the technology products in our everyday lives. At Haufe Group, we choose to develop and use OSS for the following reasons:
 
 * **Culture**: We are fundamentally invested in sharing.
 * **Trust**: We believe in the tight bond of trust OSS engenders between the company, our developers, and the broader community of users.
@@ -10,7 +10,7 @@ Open source software (OSS) is a software development model that underpins many H
 * **Reuse**: Let’s not reinvent the wheel!
 
 ### What we tend to open
-We believe in putting powerful tools in the hands of developers. In many cases, this means open sourcing what we are working on early and often in accordance with our policy and core values. When contributing to other open source projects we strive to follow best practices and licenses set by that open source community. As a rule of thumb, we will open source, under various licenses, the following types of software:
+We believe in putting powerful tools in the hands of developers. In many cases, this means open sourcing what we are working on early and often in accordance with our policy and core values. When contributing to other open-source projects we strive to follow best practices and licenses set by that open-source community. As a rule of thumb, we will open source, under various licenses, the following types of software:
 
 * **Generic tools**: A tool, library, or other utility that solves a generic problem
 * **Non-core**: Software not part of our core value proposition as a business
