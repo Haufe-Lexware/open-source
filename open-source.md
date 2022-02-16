@@ -30,7 +30,7 @@ So think before you act. Open Source is valuable to us because it reflects dedic
 
 #### The Process
 
-- [Get Approval](#get_approval) - Submit a request to open source to the Head of Technology of your busines group.
+- [Get Approval](#get_approval) - Submit a request to open source to the Head of Technology of your business group.
 - [Use Github](#use_github) - Request a repo on our corporate Github account
 - [Document and Test and Build](#document_and_test_and_build) - Check in your code, add automated testing and wire it up to our external CI/CD pipeline
 - [Review](#review) - have someone unconnected to the project review it to make sure it is actually usable. 
