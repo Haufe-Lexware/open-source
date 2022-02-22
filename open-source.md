@@ -61,7 +61,7 @@ Once you check in your code, add automated tests, and hook it up to our public C
 
 If your code is also used internally, do not deploy from your public Github repo. Use a separate repo on our internal version control system and deploy it internally via our internal CI/CD pipeline from there. This introduces a so called [air gap](https://en.wikipedia.org/wiki/Air_gap_(networking)) between our publicly available open source and our internally deployed systems. The internal repo should **not** automatically replicate all changes on the public repo. Instead each merge from the public repo to the internal repo needs be manually reviewed to avoid potentially compromised code from being deployed internally. 
 
-**All of our internal systems are built and deployed using our internal Gitlab repo and internal CI/CD pipeline. All our public source is built and deployed using our public Github repo and public CI/CD pipeline. All changes on the public repo are reviewed before merging to our internal repo. No exceptions.**
+**All of our internal systems are built and deployed using an internal versioning system and an internal CI/CD pipeline. All our public source is built and deployed using our public Github repo and public CI/CD pipeline. All changes on the public repo are reviewed before merging to our internal repo. No exceptions.**
 
 ##### Review
 Before it gets published, schedule a review by someone who is unconnected to the project. His or her responsibility is to make sure your source is usable **without your help**. Any issues should be tracked in the issue tracker of the repo. Anything marked as "blocking" must be resolved before it can be published.
