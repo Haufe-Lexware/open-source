@@ -61,7 +61,7 @@ Once you check in your code, add automated tests, and hook it up to our public C
 
 If your code is also used internally, do not deploy from your public Github repo. Use a separate repo on our internal version control system and deploy it internally via our internal CI/CD pipeline from there. This introduces a so called [air gap](https://en.wikipedia.org/wiki/Air_gap_(networking)) between our publicly available open source and our internally deployed systems. The internal repo should **not** automatically replicate all changes on the public repo. Instead each merge from the public repo to the internal repo needs be manually reviewed to avoid potentially compromised code from being deployed internally. 
 
-**All of our internal systems are built and deployed using our internal Gitlab repo and internal CI/CD pipeline. All our public source is built and deployed using our public Github repo and public CI/CD pipeline. All changes on the public repo are reviewed before merging to our internal repo. No exceptions.**
+**All of our internal systems are built and deployed using an internal versioning system and an internal CI/CD pipeline. All our public source is built and deployed using our public Github repo and public CI/CD pipeline. All changes on the public repo are reviewed before merging to our internal repo. No exceptions.**
 
 ##### Review
 Before it gets published, schedule a review by someone who is unconnected to the project. His or her responsibility is to make sure your source is usable **without your help**. Any issues should be tracked in the issue tracker of the repo. Anything marked as "blocking" must be resolved before it can be published.
@@ -81,4 +81,4 @@ Code not maintained is dead code. This is also true for open-source projects. We
 As with everything, code gets stale, technology moves on. It is ok (and expected) that only very few repos will have an active lifespan of more than a year or two. In order to avoid accumulating dead code and repos, we need to be committed and diligent in fighting entropy but also must take down repos which have not seen significant activity. This is especially true for repos with code not used internally.
 
 #### Moving on
-There is a time when we all move on. Either taking a new role, or a new job or otherwise not being able to maintain the commitment to your open-source project anymore. **It is your responsibility to find a new owner or ask for the repo to be removed.** Do not rely on others to clean up after you. 
+There is a time when we all move on. Either taking a new role, or a new job or otherwise not being able to maintain the commitment to your open-source project anymore. **It is your responsibility to find a new owner and communicate this, or, in the case of no new owner, that you no longer maintain the code and when you intend to take down the repo** Do not rely on others to clean up after you. 
